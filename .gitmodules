@@ -1,0 +1,4 @@
+[submodule "projSub"]
+	path = projSub
+	url = git@github.com:yanpei526/projSub.git
+	branch = dev
